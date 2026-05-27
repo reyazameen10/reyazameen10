@@ -1,8 +1,14 @@
-Cybersecurity specialist with expertise in IT systems, networks, and application security. 
-Currently pursuing an Associate Degree in Computer Information Technology with a Cybersecurity concentration. 
-Experienced in high-stakes sectors like healthcare, banking, and military, skilled in ethical hacking, risk management, and intrusion detection. 
-Certified in CompTIA A+ and Data Analytics, with proficiency in Python and cybersecurity tools like Kali Linux, Nmap, and Nessus. 
-Strong leadership background, fluent in English, Persian.
+# Hi, I'm Rey Ameen
+
+## Computer Science student at Boston University | Cybersecurity Specialist
+Cybersecurity and Full-Stack Development student with hands-on experience in SIEM, incident response, Django/React web applications, and secure IT environments. Skilled in Python, REST APIs, Linux, and cloud technologies. 
  
+## Languages and Tools
+Python | Pandas | NumPy | Scikit-learn | Bash | PowerShell | Linux | AWS
 
+## Licences and Certifications
+CompTIASecurity+ (2024)   |      AWS Cloud Foundations (2025)   |       Google Data Analytics (2022)
 
+## Connect with me 
+[LinkedIn](https://www.linkedin.com/in/reyazuddin-ameen-b0024322b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[Email](mailto:reyazam.10@gmail.com)
