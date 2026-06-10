@@ -10,9 +10,10 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## Licences and Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b84aff22-a1b2-4aab-b226-51c19dec5ce6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  |      AWS Cloud Foundations (2025)   |       Google Data Analytics (2022)
+<img width="168" height="168" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/9feea4fc-12ba-463d-ad03-aff61a9f9e51" />
+ |      AWS Cloud Foundations (2025)   |       Google Data Analytics (2022)
 
-##GitHub stats
+## GitHub stats
 ![Rey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyazameen10&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyazameen10&layout=compact&theme=dark)
