@@ -14,5 +14,10 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
  |      AWS Cloud Foundations (2025)   |       Google Data Analytics (2022)
 
 ## GitHub stats
+![Rey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyazameen10&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyazameen10&layout=compact&theme=dark)
+
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyazuddin-ameen-b0024322b)
 [![Email](https://img.shields.io/badge/📧_Email_Me-black?style=for-the-badge)](mailto:reyaz.am10@gmail.com)
