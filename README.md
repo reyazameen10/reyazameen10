@@ -19,5 +19,13 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyazameen10&layout=compact&theme=dark)
 
 ## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyazuddin-ameen-b0024322b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyazam.10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyazuddin-ameen-b0024322b)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reyazuddin-ameen-b0024322b)
+
+[![LinkedIn](https://img.shields.io/badge/Rey_Ameen-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyazuddin-ameen-b0024322b)
+[![Email](https://img.shields.io/badge/Hit_Me_Up-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyaz.am10@gmail.com)
+
+[![Email](https://img.shields.io/badge/Gmail-Say_Hello!-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyaz.am10@gmail.com)
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-black?style=for-the-badge)](mailto:reyaz.am10@gmail.com)
