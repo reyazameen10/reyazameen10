@@ -11,7 +11,8 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## Licences and Certifications
 <img width="168" height="168" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/9feea4fc-12ba-463d-ad03-aff61a9f9e51" />
- |      <img width="144" height="144" alt="aws-academy-graduate-cloud-foundations-training-bad" src="https://github.com/user-attachments/assets/ccaacaa0-6de4-4ee5-8dbd-306ddcb7fe9c" />
+ |      <img width="144" height="144" alt="aws-academy-graduate-cloud-foundations-training-bad" src="https://github.com/user-attachments/assets/9dd0226a-56af-4690-b974-1917abe19b04" />
+
  |      <img width="140" height="140" alt="google-data-analytics-professional-certificate 2 (2)" src="https://github.com/user-attachments/assets/c844e049-9490-4d28-89f6-61fc60695d63" />
 
 
