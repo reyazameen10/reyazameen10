@@ -11,7 +11,8 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## Licences and Certifications
 <img width="168" height="168" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/9feea4fc-12ba-463d-ad03-aff61a9f9e51" />
- |      AWS Cloud Foundations (2025)   |       <a href="https://info.credly.com/"><img src="PASTE_YOUR_IMAGE_URL" width="100" alt="Google Data Analytics"/></a>
+ |      AWS Cloud Foundations (2025)   |      <img width="100" height="100" alt="google-data-analytics-professional-certificate 2 (1)" src="https://github.com/user-attachments/assets/ebc40e46-dd68-4eea-8969-232cf45373d8" />
+
 
 
 ## GitHub stats
