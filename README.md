@@ -11,7 +11,8 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ## Licences and Certifications
 <img width="168" height="168" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/9feea4fc-12ba-463d-ad03-aff61a9f9e51" />
- |      AWS Cloud Foundations (2025)   |       Google Data Analytics (2022)
+ |      AWS Cloud Foundations (2025)   |       <img width="1000" height="1000" alt="google-data-analytics-professional-certificate 2" src="https://github.com/user-attachments/assets/0e640868-33b3-4df3-9cd9-f8c649b02fef" />
+
 
 ## GitHub stats
 ![Rey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyazameen10&show_icons=true&theme=dark)
