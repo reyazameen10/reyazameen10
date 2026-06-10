@@ -19,5 +19,5 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyazameen10&layout=compact&theme=dark)
 
 ## Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyazuddin-a-meen-b0024322b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyazuddin-ameen-b0024322b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reyazam.10@gmail.com)
