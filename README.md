@@ -11,6 +11,7 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
 ## Licences and Certifications
 <img width="144" height="144" alt="comptia-security-ce-certification (1)" src="https://github.com/user-attachments/assets/f306dda2-23df-4cc8-93fe-db9a5633cc05" />
 <img width="120" height="120" alt="AWS Cloud Foundations" src="https://github.com/user-attachments/assets/9dd0226a-56af-4690-b974-1917abe19b04" /> &nbsp;&nbsp;&nbsp;
