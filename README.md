@@ -14,7 +14,7 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 <img width="144" height="144" alt="comptia-security-ce-certification (1)" src="https://github.com/user-attachments/assets/f306dda2-23df-4cc8-93fe-db9a5633cc05" />
 <img width="120" height="120" alt="AWS Cloud Foundations" src="https://github.com/user-attachments/assets/9dd0226a-56af-4690-b974-1917abe19b04" /> &nbsp;&nbsp;&nbsp;
 <img width="120" height="120" alt="Google Data Analytics" src="https://github.com/user-attachments/assets/c844e049-9490-4d28-89f6-61fc60695d63" />
-<img width="204" height="204" alt="c-ascp-scientist-in-chemistry" src="https://github.com/user-attachments/assets/497d749f-4dd5-46c1-80be-3338e628859b" />
+
 
 
 
