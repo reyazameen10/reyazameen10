@@ -9,6 +9,7 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#013243
 
 ## Licences and Certifications
 <img width="144" height="144" alt="comptia-security-ce-certification (1)" src="https://github.com/user-attachments/assets/f306dda2-23df-4cc8-93fe-db9a5633cc05" />
