@@ -1,6 +1,6 @@
 # Hi, I'm Rey Ameen
 
-## Computer Science student at Boston University | Cybersecurity Specialist
+## Computer Science student @ Boston University | Cybersecurity Specialist
 Cybersecurity and Full-Stack Development student with hands-on experience in SIEM, incident response, Django/React web applications, and secure IT environments. Skilled in Python, REST APIs, Linux, and cloud technologies. 
  
 ## Languages and Tools
