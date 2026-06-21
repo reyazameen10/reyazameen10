@@ -1,12 +1,15 @@
 # Hi, I'm Rey Ameen
-Computer Science student at Boston University | Cybersecurity & Full-Stack Developer
 
-I'm a CS student with a background in aviation and healthcare, now building secure, full-stack web and mobile applications. Passionate about cybersecurity, REST APIs, and creating tools that solve real problems.
-Currently building **CozyNest** — a full-stack vacation rental platform
-Learning more about cloud security, buidling secure web and practicing penetration testing
+### Computer Science student at Boston University | Cybersecurity & Full-Stack Developer
 
-✈️ Former Air Force pilot turned software engineer
- 
+I'm a CS student with a background in military aviation and healthcare, now building secure, full-stack web and mobile applications. Passionate about cybersecurity, REST APIs, and creating tools that solve real problems.
+
+Currently building **CozyNest** — a full-stack vacation rental platform.
+Learning more about cloud security and penetration testing.
+Former Air Force pilot turned software engineer.
+
+---
+
 ## Languages and Tools
 
 ### Languages
@@ -39,18 +42,23 @@ Learning more about cloud security, buidling secure web and practicing penetrati
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 ## Licences and Certifications
-<img width="144" height="144" alt="comptia-security-ce-certification (1)" src="https://github.com/user-attachments/assets/f306dda2-23df-4cc8-93fe-db9a5633cc05" />
-<img width="120" height="120" alt="AWS Cloud Foundations" src="https://github.com/user-attachments/assets/9dd0226a-56af-4690-b974-1917abe19b04" /> &nbsp;&nbsp;&nbsp;
+<img width="144" height="144" alt="CompTIA Security+" src="https://github.com/user-attachments/assets/f306dda2-23df-4cc8-93fe-db9a5633cc05" />
+&nbsp;&nbsp;&nbsp;
+<img width="120" height="120" alt="AWS Cloud Foundations" src="https://github.com/user-attachments/assets/9dd0226a-56af-4690-b974-1917abe19b04" />
+&nbsp;&nbsp;&nbsp;
 <img width="120" height="120" alt="Google Data Analytics" src="https://github.com/user-attachments/assets/c844e049-9490-4d28-89f6-61fc60695d63" />
 
+---
 
-
-
-## GitHub stats
+## GitHub Stats
 ![Rey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyazameen10&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyazameen10&layout=compact&theme=dark)
+
+---
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyazuddin-ameen-b0024322b)
