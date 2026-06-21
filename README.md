@@ -1,10 +1,9 @@
-# Hi, I'm Rey Ameen
+# Hi, I'm Rey Ameen 👋
+Computer Science student at Boston University | Cybersecurity & Full-Stack Developer
 
-## Computer Science student @ Boston University | Cybersecurity Specialist
-Cybersecurity and Full-Stack Development student with hands-on experience in SIEM, incident response, Django/React web applications, and secure IT environments. Skilled in Python, REST APIs, Linux, and cloud technologies.
-
- Currently building **CozyNest** — a full-stack vacation rental platform
- Learning more about cloud security and AWS
+I'm a CS student with a background in aviation and healthcare, now building secure, full-stack web and mobile applications. Passionate about cybersecurity, REST APIs, and creating tools that solve real problems.
+Currently building **CozyNest** — a full-stack vacation rental platform
+Learning more about cloud security and AWS
 
 ✈️ Former Air Force pilot turned software engineer
  
