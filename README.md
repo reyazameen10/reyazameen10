@@ -4,7 +4,7 @@
 
 I'm a CS student with a background in military aviation and healthcare, now building secure, full-stack web and mobile applications. Passionate about cybersecurity, REST APIs, and creating tools that solve real problems.
 
-Currently building **CozyNest** — a full-stack vacation rental platform.
+Currently building **CozyNest**  a full-stack vacation rental platform.
 Learning more about cloud security and penetration testing.
 Former Air Force pilot turned software engineer.
 
