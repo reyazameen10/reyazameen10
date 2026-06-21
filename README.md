@@ -4,11 +4,6 @@
 Cybersecurity and Full-Stack Development student with hands-on experience in SIEM, incident response, Django/React web applications, and secure IT environments. Skilled in Python, REST APIs, Linux, and cloud technologies. 
  
 ## Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,9 +35,6 @@ Cybersecurity and Full-Stack Development student with hands-on experience in SIE
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
 ## Licences and Certifications
 <img width="144" height="144" alt="comptia-security-ce-certification (1)" src="https://github.com/user-attachments/assets/f306dda2-23df-4cc8-93fe-db9a5633cc05" />
 <img width="120" height="120" alt="AWS Cloud Foundations" src="https://github.com/user-attachments/assets/9dd0226a-56af-4690-b974-1917abe19b04" /> &nbsp;&nbsp;&nbsp;
